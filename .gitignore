@@ -93,6 +93,6 @@ ENV/
 *.pyc
 *.o
 *.a
-*/p*[!{.cpp}]
+cpp/p*[!{.cpp}]
 *test
 *.swp
